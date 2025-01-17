@@ -5,19 +5,19 @@
     "title": "title 1",
     "desc": "description 1",
     "isFav": false,
-  },
+  }
   {
     "id": 2,
     "img": "",
     "title": "title 2",
     "desc": "description 2",
     "isFav": true,
-  },
+  }
   {
     "id": 3,
     "img": "",
     "title": "title 3",
     "desc": "description 3",
     "isFav": false,
-  },
+  }
 ]
